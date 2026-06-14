@@ -25,11 +25,11 @@ A simple parallax scrolling website built using HTML and CSS.
 
 ## Screenshots
 
-![Adventure with parallax effect](screenshots/adventure.png)
-![adventure description](screenshots/adv-descp.png)
-![Biking with parallax effect](screenshots/biking.png)
-![Palagliding with parallax effect](screenshots/paragliding.png)
-![Surfing with parallax effect](screenshots/surfing.png)
+![Adventure with parallax effect](screenshot/adventure.png)
+![adventure description](screenshot/adv-descp.png)
+![Biking with parallax effect](screenshot/biking.png)
+![Palagliding with parallax effect](screenshot/paragliding.png)
+![Surfing with parallax effect](screenshot/surfing.png)
 
 ## Author
 
